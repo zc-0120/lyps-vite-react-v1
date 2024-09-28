@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/LYSA-APP/sw.js', { scope: '/LYSA-APP/' })})}
