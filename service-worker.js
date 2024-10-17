@@ -4,7 +4,7 @@ self.addEventListener('install', (event) => {
     caches.open('my-cache').then((cache) => {
       return cache.addAll([
         '/index.html',
-        // 其他靜態資源
+        '/assets/site-CB63ORlk-webmanifest.json',
       ]);
     })
   );
