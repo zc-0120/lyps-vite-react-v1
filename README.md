@@ -7,4 +7,4 @@ This version use **vite** + **react**.
 
 ## Learn More
 Please see the latest repo at [**LYCA-22**](https://github.com/LYCA-22/lyhs-plus-app).
-To see more, you can visit our [offical website](https://plus.lyhsca.org/) or [LYCA-22](lyhsca.org).
+To see more, you can visit our [offical website](https://plus.lyhsca.org/) or [LYCA-22](https://lyhsca.org).
